@@ -4562,4 +4562,3 @@ Processing by BooksController#index as HTML
   Rendered layout layouts/application.html.erb (Duration: 67.6ms | Allocations: 4849)
 Completed 200 OK in 70ms (Views: 68.0ms | ActiveRecord: 0.8ms | Allocations: 5317)
 
-
