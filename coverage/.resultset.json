@@ -11,6 +11,10 @@
           1,
           1,
           1,
+          null,
+          1,
+          1,
+          1,
           1,
           1,
           null,
@@ -354,6 +358,10 @@
           1,
           1,
           null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -369,6 +377,42 @@
           null
         ]
       },
+      "/csce431/test_app/app/helpers/demo_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/csce431/test_app/spec/helpers/demo_helper_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/csce431/test_app/spec/requests/demo_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/csce431/test_app/spec/unit/unit_spec.rb": {
         "lines": [
           null,
@@ -376,9 +420,23 @@
           null,
           1,
           1,
-          2,
+          5,
           null,
           null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           1,
           null,
@@ -394,6 +452,7 @@
         "lines": [
           1,
           1,
+          null,
           null
         ]
       },
@@ -430,24 +489,11 @@
           null,
           1,
           1,
-          null,
           1,
           1,
           2,
           1,
           null,
-          0,
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          0,
-          0,
           null,
           0,
           0,
@@ -458,6 +504,19 @@
           null,
           1,
           0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
           null,
           0,
           0,
@@ -474,6 +533,7 @@
           null,
           1,
           1,
+          null,
           null,
           null
         ]
@@ -485,6 +545,6 @@
         ]
       }
     },
-    "timestamp": 1663035066
+    "timestamp": 1663303706
   }
 }
