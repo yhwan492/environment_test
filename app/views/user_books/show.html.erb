@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>User:</strong>
+  <%= User.where(id: @user_book.user_id).last.username %>
+</p>
+
+<p>
+  <strong>Book:</strong>
+  <%= Book.where(id: @user_book.book_id).last.title %>
+</p>
+
+<%= link_to 'Edit', edit_user_book_path(@user_book) %> |
+<%= link_to 'Back', user_books_path %>
