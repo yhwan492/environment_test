@@ -2,12 +2,12 @@
 
 <p>
   <strong>User:</strong>
-  <%= @user_book.user_id %>
+  <%= User.where(id: @user_book.user_id).last.username %>
 </p>
 
 <p>
   <strong>Book:</strong>
-  <%= @user_book.book_id %>
+  <%= Book.where(id: @user_book.book_id).last.title %>
 </p>
 
 <%= link_to 'Edit', edit_user_book_path(@user_book) %> |
