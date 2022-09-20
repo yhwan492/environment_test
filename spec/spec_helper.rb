@@ -1,4 +1,3 @@
-
 require 'simplecov'
 SimpleCov.start 
 # (you can try SimpleCov.start 'rails' instead to see if the coverage report is different, but we only require the one above)
